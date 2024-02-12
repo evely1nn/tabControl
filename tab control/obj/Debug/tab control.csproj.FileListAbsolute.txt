@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\tab control\tab control\bin\Debug\tab control.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\tab control\tab control\bin\Debug\tab control.exe
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\tab control\tab control\bin\Debug\tab control.pdb
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\tab control\tab control\obj\Debug\tab control.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\tab control\tab control\obj\Debug\tab control.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\tab control\tab control\obj\Debug\tab_control.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\tab control\tab control\obj\Debug\tab_control.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\tab control\tab control\obj\Debug\tab control.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\tab control\tab control\obj\Debug\tab control.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\tab control\tab control\obj\Debug\tab control.exe
+C:\Users\User\Desktop\KORUMASIZ\Ravzanur1313\tab control\tab control\obj\Debug\tab control.pdb
